@@ -1,7 +1,7 @@
 <header>
   <h1>👋🏻 Hey there I'm Daniel</h1>
   <p>
-    I’m currently studying <strong>Computer Science</strong> 🎓 at the <a href="https://nus.edu.sg/"><strong>National University of Singapore (NUS)</strong></a>. My interests lie in networking, distributed systems and web3.0, because I see the future where people are more connected than ever before, interfacing with tech and living better with tech.
+    I’m currently studying <strong>Computer Science</strong> 🎓 at the <a href="https://nus.edu.sg/"><strong>National University of Singapore (NUS)</strong></a>. My interests lie in networking, distributed systems and web3.0, because I see the future where people are more connected than ever before, interfacing with tech and living better with tech. Working on some web development and software engineering projects at the moment!
   </p>
 </header>
 
