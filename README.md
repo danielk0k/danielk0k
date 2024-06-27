@@ -4,7 +4,7 @@
     I’m currently studying <strong>Computer Science</strong> 🎓 at the <a href="https://nus.edu.sg/"><strong>National University of Singapore (NUS)</strong></a>.
   </p>
   <p>
-    I love to build cool and aesthetic stuff 🤩. Right now, I'm exploring a little bit of web3.0, because I believe it's be the future (maybe in decade 🤷‍♂️). Working on some web development and software engineering projects at the moment!
+    I love to build cool and aesthetic stuff 🤩. Working on some web development and software engineering projects at the moment! Check out <a href="https://www.qumo.ai/">qumo.ai</a> - Your Intelligent Question Moderator to unlock deeper insights through dynamic conversations.
   </p>
   <p>
     Thanks for reading me! 😉
